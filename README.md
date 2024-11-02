@@ -1,16 +1,11 @@
 # BonnOccasion
-A cross- platform mobile application for buying and selling second-hand products. Developed with Spring Boot for the backend using REST APIs, React Native for the frontend, and Firebase.
-## This is the client-side implementation of the application.
+A cross- platform mobile application for buying and selling second-hand products. Developed with Spring Boot for the backend using REST APIs, React Native for the frontend, and Firebase for authentification.
+### This is the client-side implementation of the application.
 ### Screenshots of the application's screens ✨:
-| Screen 1 | Screen 2 | Screen 3 |
+| Login Screen | Sign up Screen | Home Screen |
 |----------|----------|----------|
-| ![Screen 1](./screen1.png) | ![Screen 2](./screen2.png) | ![Screen 3](./screen3.png) |
-| Screen 4 | Screen 5 |          |
-| ![Screen 4](./screen4.png) | ![Screen 5](./screen5.png) |          |
+| ![Screen 1](assets/images/1.jpg) | ![Screen 2](assets/images/2.jpg) | ![Screen 3](assets/images/4.jpg) |
+| Product Screen | Card Screen |          |
+| ![Screen 4](assets/images/5.jpg) | ![Screen 5](assets/images/6.jpg) |          |
 
-### Descriptions
-- **Screen 1**: Description of the first screen.
-- **Screen 2**: Description of the second screen.
-- **Screen 3**: Description of the third screen.
-- **Screen 4**: Description of the fourth screen.
-- **Screen 5**: Description of the fifth screen.
+
