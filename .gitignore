@@ -1,23 +1,9 @@
-# Dependencies
 node_modules/
-
-# Firebase and other sensitive configs
-
 .env
-
-# OS Files
 .DS_Store
-
-# Logs
 *.log
-
-# Expo-specific files (if applicable)
 .expo/
 .expo-shared/
-
-# macOS-specific files
 *.DS_Store
-
-# Build output (if applicable)
 build/
 dist/
